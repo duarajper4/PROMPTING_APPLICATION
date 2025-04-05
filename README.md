@@ -48,3 +48,16 @@ Welcome to my project repository for **Day 1 of the Google Gen AI Intensive Cour
 ### 🚀 Project Demo
 - **Live Hugging Face App**  
 🔗 [https://huggingface.co/spaces/duaarajper4/prompting_project_1](https://huggingface.co/spaces/duaarajper4/prompting_project_1)
+---
+
+### ✅ Successfully Completed Codelabs on Kaggle
+
+- **Prompting Fundamentals**  
+  🔗 [Notebook](https://www.kaggle.com/code/duaarajper/kaggle-assignment-1-prompting)  
+  📥 `kaggle kernels output duaarajper/kaggle-assignment-1-prompting -p /path/to/dest`
+
+- **Evaluation & Structured Output**  
+  🔗 [Notebook](https://www.kaggle.com/code/duaarajper/evalution-and-structured-data-day-1)  
+  📥 `kaggle kernels output duaarajper/evalution-and-structured-data-day-1 -p /path/to/dest`
+
+-
