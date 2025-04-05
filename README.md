@@ -5,73 +5,46 @@ A simple Hugging Face Space that demonstrates prompt engineering basics using a 
 
 Welcome to my project repository for **Day 1 of the Google Gen AI Intensive Course (Q1 2025 Cohort)**. This project demonstrates key strategies from foundational Large Language Models (LLMs) and Prompt Engineering, integrating insights from official Google whitepapers, podcasts, and hands-on Kaggle codelabs.
 
-🚀 **Live Demo:**  
-👉 [View on Hugging Face Spaces](https://huggingface.co/spaces/duaarajper4/prompting_project_1)
-## 📘 Project Overview
-
-This project is the outcome of **Day 1: Prompting** strategies from the GenAI Intensive program. It combines foundational knowledge, prompt engineering techniques, and hands-on coding in a single space. This project showcases how prompt design can impact the quality, safety, and reliability of LLM outputs.
-## 🧠 Core Strategies from Foundational LLMs
-
-Based on the whitepaper [_"Foundational Large Language Models & Text Generation"_](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation), the key strategies explored are:
-
-### 1. **Understanding LLMs**
-- Trained on massive corpora with billions of parameters
-- Generate human-like text via next-token prediction
-- Perform few-shot, one-shot, and zero-shot learning
-
-### 2. **Capabilities**
-- Text summarization, translation, classification, sentiment analysis, question answering, and more
-- Emergent abilities like reasoning, multi-step thinking
-
-### 3. **Limitations**
-- Hallucinations (confident but wrong answers)
-- Biases and fairness concerns
-- Limited context window
-
-### 4. **Design Principles**
-- Chain-of-thought prompting
-- Retrieval-augmented generation (RAG)
-- Context formatting for improved comprehension
-
 ---
-
-## ✨ Prompt Engineering Strategies
-
-Based on the [_"Prompt Engineering"_ whitepaper_](https://www.kaggle.com/whitepaper-prompt-engineering) and GenAI Unit 1, I explored the following techniques:
-
 ### ✅ **Prompting Strategies Covered:**
 - **Zero-shot prompting**: Directly querying the model without examples
 - **Few-shot prompting**: Including examples in the prompt for better generalization
 - **Instruction-based prompting**: Explicitly guiding model behavior
 - **Chain-of-thought prompting**: Breaking complex reasoning into steps
 - **Structured output prompting**: Asking for JSON or tabular output formats
+---
 
-### 🎯 Goals:
-- Improve **output accuracy**
-- Ensure **clarity of intent**
-- Mitigate **hallucinations** and **biases**
-- Enhance **reproducibility** and **evaluation**
+### 📚 Whitepapers
+1. **Foundational LLMs & Text Generation**  
+🔗 [https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation)
+
+2. **Prompt Engineering**  
+🔗 [https://www.kaggle.com/whitepaper-prompt-engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
 
 ---
 
-## 🧪 Code Labs Completed
+### 🎧 Podcasts
+1. **Foundational LLMs & Text Generation (Podcast)**  
+🔗 [https://www.youtube.com/watch?v=Na3O4Pkbp-U&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=1](https://www.youtube.com/watch?v=Na3O4Pkbp-U&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=1)
 
-These interactive notebooks from Kaggle were essential to build the live app:
+2. **Prompt Engineering (Podcast)**  
+🔗 [https://www.youtube.com/watch?v=CFtX0ZyLSAY&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=2](https://www.youtube.com/watch?v=CFtX0ZyLSAY&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=2)
 
-1. 👉 [Prompting Fundamentals (Day 1)](https://www.kaggle.com/code/markishere/day-1-prompting)  
-2. 👉 [Evaluation & Structured Output (Day 1)](https://www.kaggle.com/code/markishere/day-1-evaluation-and-structured-output)  
 ---
 
-## 🔊 Summary Podcasts
+### 🎥 Live Sessions
+- **Day 1 Live Recording**  
+🔗 [https://www.youtube.com/live/WpIfAeCIFc0?si=ZxdeSbHB6qZO2eSU](https://www.youtube.com/live/WpIfAeCIFc0?si=ZxdeSbHB6qZO2eSU)
 
-🎧 **Foundational LLMs & Text Generation Podcast**  
-[Watch on YouTube](https://www.youtube.com/watch?v=Na3O4Pkbp-U&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=1)
+---
 
-🎧 **Prompt Engineering Podcast**  
-[Watch on YouTube](https://www.youtube.com/watch?v=CFtX0ZyLSAY&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=2)
+### 🧪 Kaggle CodeLabs (Day 1)
+1. **Prompting Fundamentals**  
+🔗 [https://www.kaggle.com/code/markishere/day-1-prompting](https://www.kaggle.com/code/markishere/day-1-prompting)
 
-## 📌 Next Steps
+2. **Evaluation & Structured Output**  
+🔗 [https://www.kaggle.com/code/markishere/day-1-evaluation-and-structured-output](https://www.kaggle.com/code/markishere/day-1-evaluation-and-structured-output)
 
-- [ ] Integrate advanced prompting methods like self-consistency and RAG
-- [ ] Add user feedback loop for model fine-tuning
-- [ ] Expand to multimodal prompting (images + text)
+### 🚀 Project Demo
+- **Live Hugging Face App**  
+🔗 [https://huggingface.co/spaces/duaarajper4/prompting_project_1](https://huggingface.co/spaces/duaarajper4/prompting_project_1)
