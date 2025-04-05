@@ -1,8 +1,5 @@
 # PROMPTING_APPLICATION
 A simple Hugging Face Space that demonstrates prompt engineering basics using a user-friendly interface. Built to test and explore prompt design strategies with a generative AI model.
-Here's a professional and detailed `README.md` file for your GitHub project, incorporating all the resources you mentioned (including the Hugging Face link, strategies from both whitepapers, and Kaggle codelabs):
-
----
 
 # 🌟 Prompt Engineering Project — GenAI Intensive (Day 1)
 
@@ -10,15 +7,9 @@ Welcome to my project repository for **Day 1 of the Google Gen AI Intensive Cour
 
 🚀 **Live Demo:**  
 👉 [View on Hugging Face Spaces](https://huggingface.co/spaces/duaarajper4/prompting_project_1)
-
----
-
 ## 📘 Project Overview
 
 This project is the outcome of **Day 1: Prompting** strategies from the GenAI Intensive program. It combines foundational knowledge, prompt engineering techniques, and hands-on coding in a single space. This project showcases how prompt design can impact the quality, safety, and reliability of LLM outputs.
-
----
-
 ## 🧠 Core Strategies from Foundational LLMs
 
 Based on the whitepaper [_"Foundational Large Language Models & Text Generation"_](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation), the key strategies explored are:
@@ -69,10 +60,6 @@ These interactive notebooks from Kaggle were essential to build the live app:
 
 1. 👉 [Prompting Fundamentals (Day 1)](https://www.kaggle.com/code/markishere/day-1-prompting)  
 2. 👉 [Evaluation & Structured Output (Day 1)](https://www.kaggle.com/code/markishere/day-1-evaluation-and-structured-output)  
-
-📌 *Note: Phone verification on Kaggle is required to access these labs.*  
-🔗 [Verify your account here](https://www.kaggle.com/settings)
-
 ---
 
 ## 🔊 Summary Podcasts
@@ -83,35 +70,8 @@ These interactive notebooks from Kaggle were essential to build the live app:
 🎧 **Prompt Engineering Podcast**  
 [Watch on YouTube](https://www.youtube.com/watch?v=CFtX0ZyLSAY&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=2)
 
----
-
-## 📂 Files & Structure
-
-```bash
-📁 prompting_project_day1/
-├── app.py                  # Streamlit app code
-├── requirements.txt        # Python dependencies
-├── README.md               # You're here!
-└── assets/                 # Optional images/prompts/examples
-```
-
----
-
 ## 📌 Next Steps
 
 - [ ] Integrate advanced prompting methods like self-consistency and RAG
 - [ ] Add user feedback loop for model fine-tuning
 - [ ] Expand to multimodal prompting (images + text)
-
----
-
-## 🙌 Acknowledgements
-
-- Google Gen AI Intensive 2025 Team  
-- Kaggle & YouTube content creators  
-- Hugging Face for providing an amazing platform  
-- Community support on Discord and LinkedIn!
-
----
-
-Let me know if you'd like this converted into a downloadable Markdown file or automatically pushed to a GitHub repo.
